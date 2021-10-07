@@ -2,7 +2,7 @@
 layout: default
 has_toc: true
 title: Creating your problem statement
-parent: Our process
+parent: Deliverables
 nav_order: ''
 published: false
 
