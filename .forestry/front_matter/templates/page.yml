@@ -13,11 +13,6 @@ fields:
   type: boolean
   label: Has child pages
   default: true
-- name: parent
-  type: text
-  config:
-    required: false
-  label: Parent
 - type: text
   name: layout
   label: layout
