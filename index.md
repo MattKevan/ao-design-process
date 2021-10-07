@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Home
-description: Just the Docs is a responsive Jekyll theme with built-in search that
-  is easily customizable and hosted on GitHub Pages.
+description: This is a toolkit to help you define the most appropriate design process
+  for your yourself, your team and the particular projects you're working on.
 permalink: "/"
 nav_order: 1
+
 ---
 # AO UX design process
 
