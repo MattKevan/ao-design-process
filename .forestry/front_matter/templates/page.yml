@@ -20,3 +20,4 @@ fields:
   hidden: true
 pages:
 - docs/our-process.md
+- docs/ux-discovery/index.md
