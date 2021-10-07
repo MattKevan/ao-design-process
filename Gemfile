@@ -5,6 +5,7 @@ gem "just-the-docs"
 
 group :jekyll_plugins do
   gem "jekyll-seo-tag"
+  gem "jekyll-menus"
   gem "jekyll-sitemap"
   gem "kramdown-parser-gfm"
 end
