@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: 
+admin_path: admin
 webhook_url: 
 sections:
 - type: directory
@@ -14,10 +14,6 @@ sections:
 - type: document
   path: index.md
   label: Home
-- type: document
-  path: README.md
-  label: README
-  read_only: true
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
