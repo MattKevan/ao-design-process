@@ -1,5 +1,5 @@
 ---
-label: Children page
+label: Child page
 hide_body: false
 fields:
 - name: layout
@@ -13,18 +13,20 @@ fields:
   type: text
   config:
     required: false
-  label: title
+  label: Title
 - name: parent
   type: text
   config:
     required: false
-  label: parent
+  label: Parent
 - name: nav_order
   type: text
   config:
     required: false
-  label: nav_order
+  label: Nav order
 - name: has_toc
   type: boolean
-  label: has_toc
   default: true
+  label: Has table of contents
+pages:
+- docs/ux-discovery/stakeholder-interviews.md

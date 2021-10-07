@@ -1,9 +1,10 @@
 ---
 layout: default
 title: Interviews
-nav_order: 6
+nav_order: "6"
 has_children: false
 parent: UX Discovery
+has_toc: true
 
 ---
 # Stakeholder interviews

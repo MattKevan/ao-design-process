@@ -13,15 +13,12 @@ fields:
   type: boolean
   label: Has child pages
   default: true
-- name: parent
-  type: text
-  config:
-    required: false
-  label: Parent
 - type: text
   name: layout
   label: layout
   default: default
   hidden: true
 pages:
+- docs/design-stages/design-stages.md
 - docs/our-process.md
+- docs/ux-discovery/index.md
