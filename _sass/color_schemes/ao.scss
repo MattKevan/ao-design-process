@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Smiley Face';
+    src: url('SmileyFace-Bold.woff2') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+
+$body-font-family: "Inter", "Helvetica Neue", Arial, sans-serif !default;
+$link-color: #0564C2 !default;
