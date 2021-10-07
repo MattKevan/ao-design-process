@@ -14,16 +14,9 @@ fields:
   label: Has child pages
   default: true
 - name: parent
-  type: select
-  default: []
+  type: text
   config:
     required: false
-    options: []
-    source:
-      type: documents
-      section: docs
-      file: 
-      path: 
   label: Parent
 - type: text
   name: layout
