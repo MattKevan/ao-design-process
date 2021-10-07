@@ -10,6 +10,9 @@ fields:
 - type: text
   name: title
   label: Title
+- name: has_toc
+  type: boolean
+  label: Has table of contents
 - type: text
   name: nav_order
   label: Nav order
