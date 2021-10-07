@@ -3,7 +3,7 @@ layout: default
 title: UX discovery
 nav_order: 8
 has_children: true
-parent: docs/ux-discovery/competitor-benchmarking.md
+parent: ''
 
 ---
 # Introduction to UX discovery
