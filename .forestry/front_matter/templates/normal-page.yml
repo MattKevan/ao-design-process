@@ -1,0 +1,19 @@
+---
+label: Normal page
+hide_body: false
+fields:
+- type: boolean
+  name: has_children
+  label: has_children
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: nav_order
+  label: nav_order
+- type: text
+  name: parent
+  label: parent
