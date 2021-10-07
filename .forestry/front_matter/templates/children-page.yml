@@ -28,3 +28,5 @@ fields:
   type: boolean
   default: true
   label: Has table of contents
+pages:
+- docs/ux-discovery/stakeholder-interviews.md
