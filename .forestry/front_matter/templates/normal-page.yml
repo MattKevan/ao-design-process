@@ -2,9 +2,6 @@
 label: Normal page
 hide_body: false
 fields:
-- type: boolean
-  name: has_children
-  label: has_children
 - type: text
   name: layout
   label: layout
