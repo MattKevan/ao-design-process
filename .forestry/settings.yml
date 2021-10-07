@@ -10,7 +10,9 @@ sections:
   create: all
   match: "**/*"
   templates:
+  - normal-page
   - page
+  - children-page
 - type: document
   path: index.md
   label: Home
