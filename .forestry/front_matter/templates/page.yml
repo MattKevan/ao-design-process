@@ -19,5 +19,6 @@ fields:
   default: default
   hidden: true
 pages:
+- docs/design-stages/design-stages.md
 - docs/our-process.md
 - docs/ux-discovery/index.md
