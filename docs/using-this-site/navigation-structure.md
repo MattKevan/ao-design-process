@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Navigation Structure
-nav_order: 99
+title: Navigation
+nav_order: 2
 has_children: false
-
+parent: Using this site
 ---
 # Navigation Structure
 {: .no_toc }

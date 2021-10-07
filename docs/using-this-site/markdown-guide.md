@@ -1,8 +1,15 @@
 ---
 layout: default
-title: Markdown kitchen sink
-nav_order: 99
+title: Text formatting
+nav_order: 4
+has_children: false
+parent: Using this site
 ---
+
+# Text formatting
+
+This site uses Markdown to format text. Here's a quick rundown of the available options.
+{: .fs-6 }
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
@@ -147,3 +154,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+
