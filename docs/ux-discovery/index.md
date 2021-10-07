@@ -3,9 +3,8 @@ layout: default
 title: UX discovery
 nav_order: 8
 has_children: true
-parent: docs/ux-discovery/competitor-benchmarking.md
-
 ---
+
 # Introduction to UX discovery
 
 UX discovery is a collection of methods to uncover business requirements and the competitive landscape.
