@@ -25,7 +25,7 @@ aux_links:
 footer_content: "Copyright &copy; 2021 AO.com"
 
 # Color scheme currently only supports "dark" or nil (default)
-color_scheme: ao
+color_scheme: dark
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

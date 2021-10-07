@@ -3,7 +3,6 @@ layout: default
 title: UX discovery
 nav_order: 8
 has_children: true
-parent: ''
 
 ---
 # Introduction to UX discovery

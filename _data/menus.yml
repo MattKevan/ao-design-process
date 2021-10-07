@@ -1,0 +1,10 @@
+header:
+  - url: /
+    title: Home
+    identifier: home
+  - url: /docs/design-stages/
+    title: Design stages
+    identifier: design-stages
+  - url: /docs/design-stages/define
+    title: Define
+    identifier: define

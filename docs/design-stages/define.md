@@ -4,6 +4,7 @@ title: Define
 nav_order: 4
 has_children: false
 parent: Design stages
+menus: design-stages
 ---
 # Define the problem
 
