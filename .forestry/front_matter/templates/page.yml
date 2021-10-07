@@ -23,3 +23,5 @@ fields:
   label: layout
   default: default
   hidden: true
+pages:
+- docs/our-process.md
