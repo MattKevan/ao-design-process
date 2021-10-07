@@ -3,9 +3,9 @@ layout: default
 title: Interviews
 nav_order: 6
 has_children: false
-parent: UX discovery
----
+parent: UX Discovery
 
+---
 # Stakeholder interviews
 
 Gathering requirements and understanding outcomes.
@@ -71,4 +71,3 @@ This is a very general stakeholder interview. It is a good starting point, but y
 ## Running the session as a workshop
 
 Some projects you can run sessions like this as workshop with multiple stakeholders. [Rose, Bud, Thorn exercise](https://designsprintkit.withgoogle.com/methodology/phase1-understand/rose-thorn-bud) is a great way to do this.
-
