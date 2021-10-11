@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+  	{% include head.html %}
+	  
+  	<body class="{% if page.theme %}{{ page.theme }}{% endif %}">
+	
+		{% include header.html %}
+		
+		<div class="wrapper">
+			<div class="main">
+				{{ content }}
+			</div>
+			
+			{% include footer.html %}
+		</div>
+
+  </body>
+</html>

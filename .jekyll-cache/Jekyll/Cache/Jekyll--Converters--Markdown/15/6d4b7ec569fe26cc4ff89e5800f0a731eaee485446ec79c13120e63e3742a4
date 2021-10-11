@@ -1,0 +1,89 @@
+I"`<h2 id="agree-a-problem-statement">Agree a problem statement</h2>
+
+<p>The problem statement is the reason why you’re doing the project. If the project isn’t solving a problem for our customers or the business, then there’s a good chance we shouldn’t be doing it.</p>
+
+<p>It’s essential to have a well thought-out problem statement before starting work. Never accept being handed a solution to implement – keep digging until you find the underlying problem. Don’t be afraid to challenge the problem and never settle for being handed a solution. Ask yourself:</p>
+
+<ul>
+  <li>Is this the right problem to solve?</li>
+  <li>Is it a symptom of an underlying problem we should solve instead?</li>
+  <li>What’s the impact on our customers and the business?</li>
+  <li>Do we know it’s really a problem, or is it just an assumption?</li>
+  <li>What insights do we have that can help validate it? This could be customer feedback, qualatitive and quantitive data, secondary research etc.</li>
+  <li>How will we know if we’ve solved the problem?</li>
+</ul>
+
+<p>If there isn’t a problem statement or the team isn’t sure which problems to prioritise, you should go through a <a href="/methods/discovery/">UX discovery phase</a> first. This will help you uncover the customer needs, business requirements and competitive landscape.</p>
+
+<p>Problem statements should:</p>
+
+<ul>
+  <li>Be focused</li>
+  <li>Be to the point</li>
+  <li>Provide context</li>
+  <li>Have a clear outcome</li>
+  <li>Give a sense of ownership to the team</li>
+  <li>Be aware of business constraints.</li>
+</ul>
+
+<p>Problem statements should not:</p>
+
+<ul>
+  <li>Provide a solution</li>
+  <li>Assign blame</li>
+  <li>Get too large</li>
+  <li>Address multiple problems.</li>
+</ul>
+
+<p><strong>[Our service/product]</strong> was designed to achieve <strong>[goals]</strong>. We have observed that the service/product isn’t meeting <strong>[these goals]</strong>, which is causing <strong>[this adverse effect]</strong> to our business. How might we improve <strong>[service/product]</strong> so that our customers are more successful based on <strong>[these measurable criteria]</strong>?</p>
+
+<h3 id="example-statement">Example statement</h3>
+
+<p>Todo</p>
+
+<h2 id="define-the-success-metrics">Define the success metrics</h2>
+
+<p>How will the success of this project be measured? How will you know whether it’s been successful or not? What performance metrics will you be measuring?</p>
+
+<p>Todo: What’s success for UX as well as the business/customer?</p>
+
+<h3 id="example-metrics">Example metrics</h3>
+
+<p>Todo this is a change.</p>
+
+<h2 id="develop-a-communications-plan">Develop a communications plan</h2>
+
+<p>Think about the different stakeholders in your project. These are basically anyone with some sort of interest in it, for example, could be members of your squad, the wider UX team, people in other teams, product managers, senior managers etc.</p>
+
+<p>Write down who they are, their role, their interest, any control over the project they may have and how frequently they need to be updated. This will help you build a plan for communicating effectively with them, including when signoffs and other approvals may need to happen and allowing you to build in time for this accordingly.</p>
+
+<p><strong>Example comms plan:</strong></p>
+
+<ul>
+  <li><strong>Squad members</strong> – Update daily in standups.</li>
+  <li><strong>UX team members</strong> - Update weekly in design reviews.</li>
+  <li><strong>Product manager</strong> - Update weekly in refinement session.</li>
+  <li><strong>Senior manager</strong> – Wants sign-off before build, allow two weeks for amends and approvals.</li>
+</ul>
+
+<p>!!! Note</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>By thinking about who else is involved with your project and what they may need, you can ensure everyone who needs to be involved is involved and you're not caught out at the last minute by stakeholders wanting input or sign-off.
+</code></pre></div></div>
+
+<h2 id="create-a-project-plan">Create a project plan</h2>
+
+<p>A project plan, even a brief one, will help you work out the activites you’ll do, which deliverables you’ll create, what resources you’ll need and how much time it’s all going to take. This is more important for larger projects, but even the smallest ones will benefit from some up-front thought.</p>
+
+<ul>
+  <li>
+    <p><strong>Activites</strong> - These are the things you’re going to do, for example workshops, user testing, research etc.</p>
+  </li>
+  <li>
+    <p><strong>Deliverables</strong> - These are the things you’re going to produce, such as wireframes, personas, site maps, UI designs, prototypes etc.</p>
+  </li>
+  <li>
+    <p><strong>Resources</strong> – These are the things you’re going to need, for example analytics support, testing support, copywriting and translation.</p>
+  </li>
+</ul>
+:ET

@@ -1,0 +1,54 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: AO UX
+email: m@kevan.tv
+description: >
+  AO UX team
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
+  
+gems:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+collections:
+  articles:
+    output: true
+    permalink: /articles/:path/
+  categories:
+    output: true
+    permalink: /:path/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "articles"
+    values: 
+      layout: "post"
+      description: ""
+      tags: []
+  -
+    scope:
+      path: ""
+      type: "categories"
+    values: 
+      layout: "category"
+      description: ""
+      tags: []

@@ -1,0 +1,30 @@
+I";<h2 id="activities-you-should-do">Activities you should do</h2>
+
+<ul>
+  <li>Design the flow in high fidelity</li>
+  <li>Use the AO design system: try reusing, evolving or merging existing patterns before introducing new patterns – when in doubt, talk to the team</li>
+  <li>Follow the fundamentals of good interaction design</li>
+  <li>Use real content, avoid placeholders as much as possible</li>
+  <li>Think about the system (including content and design) holistically – consider how the product changes if you make any changes within the system</li>
+  <li>Discuss your proposal with other teams who might be impacted by it</li>
+  <li>Don’t just design the happy path, consider all states and edge cases</li>
+  <li>Consider how users will experience your design and content for the first time</li>
+  <li>Share your designs with the UX team for feedback.</li>
+  <li>Share designs with stakeholders and get sign-off if required.</li>
+</ul>
+
+<h2 id="activities-you-could-do">Activities you could do</h2>
+
+<ul>
+  <li>Create interactive prototypes</li>
+  <li>Test the flow your users will go through (using Figma, Protopie etc.)</li>
+  <li>Test detailed micro-interactions and transitions</li>
+  <li>Write the content in the user experience based on the system concepts and content principles.</li>
+  <li>Contribute or give feedback on our design system</li>
+  <li>Do usability testing on your designs and prototypes with real customers and iterate based on feedback.</li>
+</ul>
+
+<h2 id="outcome">Outcome</h2>
+
+<p>High fidelity designs/prototypes shared with engineers to start building.</p>
+:ET

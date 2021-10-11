@@ -1,0 +1,46 @@
+I"]	<h1 id="declaring-assumptions">Declaring assumptions</h1>
+
+<p>Declaring assumptions is a group exercise. Get the team together, making sure all disciplines are represented – and bring in anyone else who may have vital information about the project.</p>
+
+<p>Beforehand:</p>
+
+<ol>
+  <li>Compile analytics reports that show how the current product is being used</li>
+  <li>Compile usability reports that illustrate why customers are taking certain actions in your product</li>
+  <li>Find information about past attempts to fix this issue and their successes and failures</li>
+  <li>Get analysis from the business stakeholder as to how solving this problem will affect the company’s performance</li>
+  <li>Find competitive analyses that show how competitors are tackling the same issues.</li>
+</ol>
+
+<h3 id="business-assumptions">Business assumptions</h3>
+<ul>
+  <li>I believe my customers have a need to.</li>
+  <li>These needs can be solved with</li>
+  <li>My initial customers are (or will be)</li>
+  <li>The #1 value a customer wants to get out of my service is</li>
+  <li>The customer can also get these additional benefits</li>
+  <li>I will acquire the majority of my customers through</li>
+  <li>I will make money by</li>
+  <li>My primary competition in the market will be</li>
+  <li>We will beat them due to</li>
+  <li>My biggest product risk is</li>
+  <li>We will solve this through</li>
+  <li>What other assumptions do we have that, if proven false, will cause our business/project to fail?</li>
+</ul>
+
+<h3 id="user-assumptions">User assumptions</h3>
+<ul>
+  <li>Who is the user?</li>
+  <li>Where does our product fit in his work or life?</li>
+  <li>What problems does our product solve?</li>
+  <li>When and how is our product used?</li>
+  <li>What features are important?</li>
+  <li>How should our product look and behave?</li>
+</ul>
+
+<h2 id="prioritising-assumptions">Prioritising assumptions</h2>
+<p>Lean UX is all about doing the most important things first. Once we’ve got our list of assumptions, we need to prioritise them by the level of risk and how much we know about the issue. The more damage getting things wrong could do and the less we know about the issues, the more vital it is we tackle it first.</p>
+
+<p>It’s worth keeping a backlog of all your assumptions however, as even if they didn’t make the first cut, you might want to come back and test them later.</p>
+
+:ET

@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+
+@font-face {
+    font-family: 'Smiley Face';
+    src: url('fonts/SmileyFace-Bold.woff2') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+$font-family-serif:         Georgia, serif;
+$font-family-sans-serif:	'Inter', Helvetica, Arial, sans-serif;
+$headings-font-family:      'Smiley Face', Helvetica, Arial, sans-serif;
+
+
+$headings-font-weight:		bold !default;
+$font-weight-base:          normal;
+$line-height-base:          1.8 !default;
+$font-family-base:          $font-family-serif !default;
+$blue:    					#2962FF !default;
+
+
+.btn-primary.active		{
+}

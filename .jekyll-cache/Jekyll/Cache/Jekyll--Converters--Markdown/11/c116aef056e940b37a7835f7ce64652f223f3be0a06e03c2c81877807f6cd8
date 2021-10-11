@@ -1,0 +1,30 @@
+I"�<h2 id="goal">Goal</h2>
+
+<h2 id="activities-you-should-do">Activities you should do</h2>
+
+<ul>
+  <li>Design the unhappy path: empty states, error and loading states, edge cases.</li>
+  <li>Polish the visuals – make it look beautiful and feel enjoyable.</li>
+  <li>Make sure the content follows our principles, is concise and easy to understand.</li>
+  <li>QA the built UI early and often, ensuring it’s high quality and aligns with your design.</li>
+  <li>Take ownership of what we will ship and fight for quality.</li>
+  <li>Push for the best possible experience.</li>
+  <li>Look to cut scope (but not quality) and be okay with some healthy tension.</li>
+</ul>
+
+<h2 id="activities-you-could-do">Activities you could do</h2>
+
+<ul>
+  <li>Design meaningful micro-interactions and transitions</li>
+  <li>Sit with developers and work around tech challenges together</li>
+  <li>Tweak your designs in the browser in response to technical challenges</li>
+  <li>Create Trello/DevOps issues and ensure they are closed out before shipping</li>
+  <li>Ensure our patterns and components are being used correctly or that you’re feeding changes back into the design system</li>
+  <li>Finalise the UI content and commission copywriting and translation where needed.</li>
+  <li>Create a detailed QA plan with the team</li>
+</ul>
+
+<h2 id="outcome">Outcome</h2>
+
+<p>Your design implemented in high quality and shipped.</p>
+:ET

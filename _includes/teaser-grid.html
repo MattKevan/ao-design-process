@@ -1,0 +1,27 @@
+<div class="col-12 col-sm-6 col-lg-4 mb-4">
+	<div class="teaser teaser-grid">
+		<a href="{{ item.url | prepend: site.baseurl }}">
+			{% if item.image %}
+				<img src="/images/{{ item.image }}" class="fullwidth">
+			{% else %}
+				<img src="/images/placeholder.jpg" class="fullwidth">
+			{% endif %}
+		</a>
+		
+		<h4><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+		<p>{{ item.description }}</p>
+		
+<p class="tags xs mb-4">
+					 {% for tag in item.categories %}
+					 {% for cat in site.categories %}
+					 	{% if tag == cat.path %}
+						 <span>{{ cat.title }}</span>
+					 	{% endif %}
+					 
+					{% endfor %}
+					{% endfor %}
+				</p>
+		
+	</div>
+</div>
+

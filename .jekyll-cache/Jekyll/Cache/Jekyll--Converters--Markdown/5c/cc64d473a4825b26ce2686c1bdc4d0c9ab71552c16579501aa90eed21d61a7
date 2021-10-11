@@ -1,0 +1,61 @@
+I"<h1 id="introduction-to-ux-discovery">Introduction to UX discovery</h1>
+
+<p>UX discovery is a collection of methods to uncover business requirements and the competitive landscape.</p>
+
+<h2 id="creating-products">Creating products</h2>
+
+<p>To create a product, we need to understand three things:</p>
+
+<h3 id="desirability">Desirability</h3>
+
+<p><strong>Do people want or need this?</strong> Find this out by getting out of the building and asking them. Activities could include user testing, surveys, analytics, in-depth interviews and diary studies.</p>
+
+<h3 id="feasibility">Feasibility</h3>
+
+<p><strong>Can it be built?</strong> Talk with developers to find out.</p>
+
+<h3 id="viability">Viability</h3>
+
+<p><strong>Does it fulfill a business need?</strong> Talk with businesspeople who have a stake in the work.</p>
+
+<p>If we only focus on a solution or features, we may miss other possibility’s which are much stronger. Therefore we need to gather data from all areas before we start to decided upon the best direction.</p>
+
+<p><img src="/assets/product-design.png" alt="Product design venn" /></p>
+
+<hr />
+
+<h2 id="features-arms-race">Features arms race</h2>
+
+<p>Design for user goals, not what we can build. For example:</p>
+
+<ul>
+  <li>Apple TV remote vs. any DVD/VHS remote.</li>
+  <li>Google Docs vs. Microsoft Word.</li>
+</ul>
+
+<blockquote>
+  <p>“Perfection is achieved perfection not when there is nothing left to add, but when there is nothing left to take away” – Antoine de Saint-Exupery</p>
+</blockquote>
+
+<p><img src="/assets/remotes.png" alt="Example remote controls" /></p>
+
+<hr />
+
+<h2 id="design-process">Design process</h2>
+
+<p>Discovery happens at the beginning of the design process. Our aim is to take the problem and explore it fully.</p>
+
+<p><img src="/assets/dd.png" alt="Discovery" /></p>
+
+<hr />
+
+<h2 id="types-of-discovery">Types of discovery</h2>
+
+<p><img src="/assets/discovery.png" alt="Discovery" /></p>
+
+<hr />
+
+<h2 id="feature-triangulation">Feature triangulation</h2>
+
+<p><img src="/assets/triangulation.png" alt="Discovery" /></p>
+:ET
