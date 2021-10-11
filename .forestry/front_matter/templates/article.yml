@@ -41,6 +41,15 @@ fields:
     source:
       type: pages
       section: categories
-- type: text
-  name: author
+- name: author
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
   label: Author
