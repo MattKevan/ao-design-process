@@ -5,17 +5,14 @@ admin_path: admin
 webhook_url: 
 sections:
 - type: directory
-  path: docs
-  label: Docs
-  create: all
+  path: _articles
+  label: Articles
+  create: documents
   match: "**/*"
-  templates:
-  - normal-page
-  - page
-  - children-page
 - type: document
-  path: index.md
-  label: Home
+  path: _data/authors.yml
+  label: Authors
+  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
