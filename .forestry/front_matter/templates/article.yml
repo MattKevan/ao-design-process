@@ -4,10 +4,10 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: number
   name: order
-  label: order
+  label: Order
 - type: list
   name: categories
   label: categories
