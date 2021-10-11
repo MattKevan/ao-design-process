@@ -48,8 +48,8 @@ fields:
     required: false
     options: []
     source:
-      type: simple
+      type: documents
       section: 
-      file: 
-      path: 
+      file: _data/authors.yml
+      path: authors
   label: Author
