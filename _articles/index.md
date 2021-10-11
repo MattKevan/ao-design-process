@@ -1,38 +1,41 @@
 ---
 layout: default
-title: UX discovery
+title: Introduction to UX discovery
 nav_order: 8
 has_children: true
+description: UX discovery is a collection of methods to uncover business requirements
+  and the competitive landscape.
+order: 1
+categories:
+- _categories/ux-discovery.md
+author: Patrick
 
 ---
-# Introduction to UX discovery
-
 UX discovery is a collection of methods to uncover business requirements and the competitive landscape.
 
-## Creating products
+### Creating products
 
 To create a product, we need to understand three things:
 
-### Desirability
+#### Desirability
 
 **Do people want or need this?** Find this out by getting out of the building and asking them. Activities could include user testing, surveys, analytics, in-depth interviews and diary studies.
 
-### Feasibility
+#### Feasibility
 
 **Can it be built?** Talk with developers to find out.
 
-### Viability
+#### Viability
 
 **Does it fulfill a business need?** Talk with businesspeople who have a stake in the work.
 
-If we only focus on a solution or features, we may miss other possibility's which are much stronger. Therefore we need to gather data from all areas before we start to decided upon the best direction. 
-
+If we only focus on a solution or features, we may miss other possibility's which are much stronger. Therefore we need to gather data from all areas before we start to decided upon the best direction.
 
 ![Product design venn](/assets/product-design.png)
 
----
+***
 
-## Features arms race
+### Features arms race
 
 Design for user goals, not what we can build. For example:
 
@@ -43,22 +46,22 @@ Design for user goals, not what we can build. For example:
 
 ![Example remote controls](/assets/remotes.png)
 
----
+***
 
-## Design process
+### Design process
 
 Discovery happens at the beginning of the design process. Our aim is to take the problem and explore it fully.
 
 ![Discovery](/assets/dd.png)
 
----
+***
 
-## Types of discovery
+### Types of discovery
 
 ![Discovery](/assets/discovery.png)
 
----
+***
 
-## Feature triangulation
+### Feature triangulation
 
 ![Discovery](/assets/triangulation.png)
