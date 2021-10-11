@@ -1,17 +1,15 @@
 ---
 title: Competitor benchmarking
+author: Patrick
+categories:
+- _categories/ux-discovery.md
+description: Understanding how other products are approaching the same problem.
 
 ---
-
-# Competitor benchmarking
-
-Understanding how other products are approaching the same problem.
-
-
 * A simple research method that doesn’t need customer input
 * It’s a method to review other websites or products which are either direct or indirect competitors.
 
-Beware of copying what others are doing without understanding how it could help the users you are designing for. 
+Beware of copying what others are doing without understanding how it could help the users you are designing for.
 
 ## Objectives
 
@@ -26,8 +24,8 @@ Beware of copying what others are doing without understanding how it could help 
 * Direct competitors but also indirect competitors who are solving a similar problem in another space
 * Document positive features, Copy, layout of element, and flow
 * Document negative elements that you can improve upon.
-* Clearly document screen shots with annotations. Include a summary of findings. 
-* Write annotations in a way that they can stand on their own. 
+* Clearly document screen shots with annotations. Include a summary of findings.
+* Write annotations in a way that they can stand on their own.
 
 ## Examples
 
