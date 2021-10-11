@@ -24,13 +24,11 @@ This means personas don't need to be elaborate - no need for reams of detail or 
 
 It's important that personas are backed by research but you don't need to wait until you know everything about your users - it's fine to take an agile approach, starting with the assumptions and insights you have  and refine as you learn.
 
-!!! Note
+**UX vs marketing personas**
 
-    **UX vs marketing personas**
-    
-    UX personas and marketing personas are quite similar, but have a slightly different focus. UX personas represent your users, while marketing personas represent customers. These may overlap, but not always. The person who buys a product isn't always the one who uses it. It can be helpful to use both together, ensuring all audiences are catered for.
+UX personas and marketing personas are quite similar, but have a slightly different focus. UX personas represent your users, while marketing personas represent customers. These may overlap, but not always. The person who buys a product isn't always the one who uses it. It can be helpful to use both together, ensuring all audiences are catered for.
 
-## User research tactics
+### User research tactics
 
 The best way to understand users is to conduct user interviews. You'll need at least five to get accurate results but they can be quite short, often half an hour is fine. Depending on how much time you've got and the amount of detail you need, anywhere between five and 30 interviews is a good number.
 
@@ -57,7 +55,7 @@ Other ways you could do research are by:
 * **Competitor research** – Look at competitors and reverse-engineer their audiences, content strategy etc.
 * **Customer listening** – Analyse Trustpilot reviews, live chat, helpdesk and other customer data. Who are our customers and what pain points do they have?
 
-## What to include
+### What to include
 
 **Name and photo**
 
@@ -81,7 +79,7 @@ To determine the persona characteristics, identify patterns between your users. 
 
 You can ususally split your desired userbase into primary and secondary segments. The primary segment contains the people you can't do without, and the secondary are the nice-to-haves - people who you'd like to have as targets but aren't essential.
 
-## Template
+### Template
 
 ![Persona template](/assets/persona-template.jpg)
 
