@@ -54,4 +54,5 @@ fields:
       path: authors
   label: Author
 pages:
+- _articles/creating-your-problem-statement.md
 - _articles/personas.md
