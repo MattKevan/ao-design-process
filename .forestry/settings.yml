@@ -9,6 +9,11 @@ sections:
   label: Articles
   create: documents
   match: "**/*"
+- type: directory
+  path: _categories
+  label: Categories
+  create: documents
+  match: "**/*"
 - type: document
   path: _data/authors.yml
   label: Authors
