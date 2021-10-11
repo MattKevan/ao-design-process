@@ -1,0 +1,19 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: number
+  name: order
+  label: order
+- type: list
+  name: categories
+  label: categories
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: author
+  label: author
