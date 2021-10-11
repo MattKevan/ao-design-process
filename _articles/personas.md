@@ -78,6 +78,6 @@ You can ususally split your desired userbase into primary and secondary segments
 
 ### Template
 
-![Persona template](/assets/persona-template.jpg)
+![Persona template](/images/persona-template.jpg)
 
-[Download PDF](/assets/Persona-Template.pdf)
+[Download PDF](/images/Persona-Template.pdf)

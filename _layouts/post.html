@@ -29,12 +29,10 @@ layout: default
 		
 	</div>
 	
-	{% if page.cover %}
+	{% if page.cover and page.cover != '' %}
 		<div class="cover-image mt-5 mb-5" style="background-image: url(/images/{{ page.cover }});">
 			<div class="overlay"></div>
 		</div>
-	{% else %}
-		<hr>
 	{% endif %}
 	
 	<div class="container">
@@ -42,6 +40,9 @@ layout: default
 		<div class="row">
 			<div class="col col-lg-8 offset-lg-2">			
 				<div itemprop="articleBody" class="content">
+					{% unless page.cover and page.cover != '' %}
+						<hr>
+					{% endunless %}
 					{{ content }}
 				</div>
 			</div>

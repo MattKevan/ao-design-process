@@ -1,14 +1,11 @@
 ---
-layout: default
 title: Introduction to UX discovery
-nav_order: 8
-has_children: true
 description: UX discovery is a collection of methods to uncover business requirements
   and the competitive landscape.
 order: 1
 categories:
 - _categories/ux-discovery.md
-author: Patrick
+author: Patrick Semple
 
 ---
 UX discovery is a collection of methods to uncover business requirements and the competitive landscape.
@@ -31,7 +28,7 @@ To create a product, we need to understand three things:
 
 If we only focus on a solution or features, we may miss other possibility's which are much stronger. Therefore we need to gather data from all areas before we start to decided upon the best direction.
 
-![Product design venn](/assets/product-design.png)
+![Product design venn](/images/product-design.png)
 
 ***
 
@@ -44,7 +41,7 @@ Design for user goals, not what we can build. For example:
 
 > “Perfection is achieved perfection not when there is nothing left to add, but when there is nothing left to take away” – Antoine de Saint-Exupery
 
-![Example remote controls](/assets/remotes.png)
+![Example remote controls](/images/remotes.png)
 
 ***
 
@@ -52,16 +49,16 @@ Design for user goals, not what we can build. For example:
 
 Discovery happens at the beginning of the design process. Our aim is to take the problem and explore it fully.
 
-![Discovery](/assets/dd.png)
+![Discovery](/images/dd.png)
 
 ***
 
 ### Types of discovery
 
-![Discovery](/assets/discovery.png)
+![Discovery](/images/discovery.png)
 
 ***
 
 ### Feature triangulation
 
-![Discovery](/assets/triangulation.png)
+![Discovery](/images/triangulation.png)

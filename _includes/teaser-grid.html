@@ -1,10 +1,17 @@
 <div class="col-12 col-sm-6 col-lg-4 mb-4">
 	<div class="teaser teaser-grid">
 		<a href="{{ item.url | prepend: site.baseurl }}">
-			{% if item.image %}
+			{% assign min = 1 %}
+{% assign max = 6 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+			{% if item.image and item.image != '' %}
+
 				<img src="/images/{{ item.image }}" class="fullwidth">
 			{% else %}
-				<img src="/images/placeholder.jpg" class="fullwidth">
+				<img src="/images/5.jpg" class="fullwidth">
+		
 			{% endif %}
 		</a>
 		
