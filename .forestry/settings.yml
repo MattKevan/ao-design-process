@@ -9,11 +9,15 @@ sections:
   label: Articles
   create: documents
   match: "**/*"
+  templates:
+  - article
 - type: directory
   path: _categories
   label: Categories
   create: documents
   match: "**/*"
+  templates:
+  - category
 - type: document
   path: _data/authors.yml
   label: Authors
