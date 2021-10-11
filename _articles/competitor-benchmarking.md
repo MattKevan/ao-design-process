@@ -1,9 +1,6 @@
 ---
-layout: default
-title: Benchmarking
-nav_order: 4
-has_children: false
-parent: UX discovery
+title: Competitor benchmarking
+
 ---
 
 # Competitor benchmarking
@@ -14,9 +11,7 @@ Understanding how other products are approaching the same problem.
 * A simple research method that doesn’t need customer input
 * It’s a method to review other websites or products which are either direct or indirect competitors.
 
-!!! warning
-
-	Beware of copying what others are doing without understanding how it could help the users you are designing for. 
+Beware of copying what others are doing without understanding how it could help the users you are designing for. 
 
 ## Objectives
 
@@ -36,4 +31,4 @@ Understanding how other products are approaching the same problem.
 
 ## Examples
 
-![Competitor benchmark](/assets/competitor.jpg)
+![Competitor benchmark](/images/competitor.jpg)

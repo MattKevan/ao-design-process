@@ -1,4 +1,11 @@
-# Lean UX
+---
+title: Lean UX
+order: 12
+categories:
+- '_categories/design-stages.md'    
+description: The goal is to measure the impact of the project and to gather your learnings, share them with the team and feed them into future projects.
+author: Matt Kevan
+---
 
 Lean UX helps teams understand how the product they're building benefits - or doesn't beneift - the user. The goal is to quickly and collaboratively explore the problem space and create a shared understanding of the best features to build.
 

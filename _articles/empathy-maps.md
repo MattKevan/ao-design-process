@@ -1,9 +1,6 @@
 ---
-layout: default
 title: Empathy maps
-nav_order: 2
-has_children: false
-parent: Deliverables
+
 ---
 
 # Empathy maps

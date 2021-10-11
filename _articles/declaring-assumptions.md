@@ -1,9 +1,5 @@
 ---
-layout: default
 title: Assumptions
-nav_order: 2
-has_children: false
-parent: UX discovery
 ---
 
 # Declaring assumptions

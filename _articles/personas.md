@@ -1,8 +1,5 @@
 ---
-layout: default
 title: Lean user personas
-nav_order: 4
-has_children: false
 parent: Deliverables
 date: 2021-10-11 11:08:35 +0100
 description: 'Personas are extremely helpful when designing products and services,

@@ -1,8 +1,6 @@
 ---
-layout: post
 title: Create designs
 order: 8
-has_children: false
 parent: Design stages
 description: Figure out the necessary flow and interaction design details to enable engineers to start building the scoped solution.
 author: Matt Kevan
