@@ -8,12 +8,19 @@ fields:
 - type: number
   name: order
   label: Order
-- type: list
-  name: categories
-  label: categories
 - type: textarea
   name: description
-  label: description
+  label: Description
+  config:
+    required: true
+- type: list
+  name: categories
+  label: Categories
+  config:
+    use_select: true
+    source:
+      type: pages
+      section: categories
 - type: text
   name: author
-  label: author
+  label: Author
