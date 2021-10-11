@@ -1,18 +1,37 @@
 ---
 authors:
-- name: Matt Kevan
-  profile: 
-- name: Patrick Semple
-  profile: 
-- name: Craig Connell
-  profile:
-- name: Tej Patel
-  profile:
-- name: Katy Dixon
-  profile:
-- name: Stephen Gale
-  profile:
-- name: Gary Sikhosana
-  profile:
-- name: Josh Keenes
-  profile:
+  Matt:
+    name: "Matt Kevan"
+    image: ""
+  Patrick:
+    name: "Patrick Semple"
+    image: ""
+  Craig:
+    name: "Craig Connell"
+    image: ""
+  Tej:
+    name: "Tej Patel"
+    image: ""
+  Katy:
+    name: "Katy Dixon"
+    image: ""
+  Stephen:
+    name: "Stephen Gale"
+    image: ""
+  Gary:
+    name: "Gary Sikhosana"
+    image: ""
+  Josh:
+    name: "Josh Keenes"
+    image: ""
+  Amie:
+    name: "Amie Farringdon"
+    image: ""
+  Martyn:
+    name: "Martyn Dawson"
+    image: ""
+  Danny:
+    name: "Danny Seabra"
+    image: ""
+
+  
