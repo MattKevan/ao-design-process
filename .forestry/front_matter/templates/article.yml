@@ -53,3 +53,5 @@ fields:
       file: _data/authors.yml
       path: authors
   label: Author
+pages:
+- _articles/personas.md
