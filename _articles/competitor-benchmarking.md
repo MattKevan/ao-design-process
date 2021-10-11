@@ -11,14 +11,14 @@ description: Understanding how other products are approaching the same problem.
 
 Beware of copying what others are doing without understanding how it could help the users you are designing for.
 
-## Objectives
+### Objectives
 
 * Understand how best in class websites, products or systems solve the same problems
 * To understand what are these sites doing well that we can emulate?
 * To understand what are these sites not doing well that we can improve upon?
 * What conventions have been established that we need to follow?
 
-## Method
+### Method
 
 * Gather 8-10 competitors
 * Direct competitors but also indirect competitors who are solving a similar problem in another space
@@ -27,6 +27,6 @@ Beware of copying what others are doing without understanding how it could help 
 * Clearly document screen shots with annotations. Include a summary of findings.
 * Write annotations in a way that they can stand on their own.
 
-## Examples
+### Examples
 
 ![Competitor benchmark](/images/competitor.jpg)

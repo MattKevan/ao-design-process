@@ -9,7 +9,7 @@ category:
 ---
 
 
-## Activities you should do
+### Activities you should do
 
 * Design the flow in high fidelity
 * Use the AO design system: try reusing, evolving or merging existing patterns before introducing new patterns – when in doubt, talk to the team
@@ -22,7 +22,7 @@ category:
 * Share your designs with the UX team for feedback.
 * Share designs with stakeholders and get sign-off if required.
 
-## Activities you could do
+### Activities you could do
 
 * Create interactive prototypes
 * Test the flow your users will go through (using Figma, Protopie etc.)
@@ -33,6 +33,6 @@ category:
 
 
 
-## Outcome
+### Outcome
 
 High fidelity designs/prototypes shared with engineers to start building.

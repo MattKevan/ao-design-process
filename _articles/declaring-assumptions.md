@@ -1,5 +1,5 @@
 ---
-title: Assumptions
+title: Declaring assumptions
 ---
 
 # Declaring assumptions
