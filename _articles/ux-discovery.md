@@ -6,6 +6,7 @@ order: 1
 categories:
 - _categories/ux-discovery.md
 author: ''
+published: false
 
 ---
 UX discovery is a collection of methods to uncover business requirements and the competitive landscape.
