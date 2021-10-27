@@ -12,6 +12,13 @@ sections:
   templates:
   - article
 - type: directory
+  path: _posts
+  label: Blog posts
+  create: documents
+  match: "**/*"
+  templates:
+  - article
+- type: directory
   path: _categories
   label: Categories
   create: documents
