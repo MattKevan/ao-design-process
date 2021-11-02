@@ -5,6 +5,7 @@ description: UX discovery is a collection of methods to uncover business require
 order: 1
 categories:
 - _categories/ux-discovery.md
+- _categories/ux-discovery.md
 author: ''
 
 ---
