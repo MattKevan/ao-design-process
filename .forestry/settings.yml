@@ -25,6 +25,11 @@ sections:
   match: "**/*"
   templates:
   - category
+- type: directory
+  path: _drafts
+  label: Drafts
+  create: documents
+  match: "**/*"
 - type: document
   path: _data/authors.yml
   label: Authors
