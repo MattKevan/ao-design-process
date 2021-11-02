@@ -4,7 +4,7 @@ author: Martyn
 title: Customer Journey Maps
 description: A collaborative session to bring together your customers thoughts, feelings
   and mindsets for each point of your journey into a living artefact.
-image: ''
+image: "/images/5.jpg"
 cover: "/images/journey-maps.jpg"
 order: 1
 categories:
