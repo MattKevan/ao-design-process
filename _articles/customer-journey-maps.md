@@ -9,7 +9,6 @@ cover: "/images/journey-maps.jpg"
 order: 1
 categories:
 - _categories/processes.md
-published: false
 
 ---
 This article will give you a the who, what, why, where and when of customer journey maps.
