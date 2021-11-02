@@ -12,8 +12,6 @@ categories:
 published: false
 
 ---
-# Customer Journey Maps
-
 This article will give you a the who, what, why, where and when of customer journey maps.
 
 As the old saying in the Cherokee tribe goes, “Don’t judge a man until you have walked a mile in his shoes”, customer journey maps let you do exactly that. The Nielson Norman Group define the customer journey map as -
