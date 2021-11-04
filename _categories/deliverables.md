@@ -1,8 +1,8 @@
 ---
 title: Deliverables
 description: 
-menus: 
+menu:
   header:
-    title: Deliverables
-    weight: 2
+    weight: 3
+
 ---

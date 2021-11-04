@@ -1,8 +1,9 @@
 ---
 title: Design stages
-description: These are the main stages that you should go through when tackling a project.
-menus: 
+description: These are the main stages that you should go through when tackling a
+  project.
+menu:
   header:
-    title: Design stages
-    weight: 1
+    weight: 2
+
 ---

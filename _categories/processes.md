@@ -1,8 +1,8 @@
 ---
 title: Processes
 description: Project management processes.
-menus: 
+menu:
   header:
-    title: Processes
-    weight: 4
+    weight: 5
+
 ---

@@ -1,8 +1,8 @@
 ---
 title: UX discovery
 description: 
-menus: 
+menu:
   header:
-    title: UX discovery
-    weight: 3
+    weight: 4
+
 ---
