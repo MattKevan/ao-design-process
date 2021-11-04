@@ -13,7 +13,9 @@ categories:
 ---
 # Our Design Principles
 
-We believe there's a better way![](/images/compass_large.png)
+We believe there's a better way
+
+![](/images/compass_large.png)
 
 ### We believe there's a better way
 
