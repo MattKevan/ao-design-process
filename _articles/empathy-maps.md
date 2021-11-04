@@ -1,10 +1,11 @@
 ---
 title: Empathy maps
+categories:
+- _categories/deliverables.md
+description: Aid decision making and create a shared understanding of a user by visualising
+  user insights in a clear, understandable artefact.
 
 ---
-
-# Empathy maps
-
 An essential part of the design thinking process, empathy maps are a collaborative way to explore and visualise what we know about a particular type of user. They're useful because they can help:
 
 * Create a shared understanding of the user.
@@ -49,15 +50,13 @@ Sessions can be run remotely, there's links below to both a Miro template and a 
 
 ### Before the session
 
-1. **Define scope and goals** - Choose the users or personas to map – if you have multiple personas create a map for each. 
-
+1. **Define scope and goals** - Choose the users or personas to map – if you have multiple personas create a map for each.
 2. **Invite participants** – This session is for aligning the team rather than creating a deliverable, so make sure you've invited the team and any other stakeholders who you think should attend.
-
-3. **Collect your research** – Gather the insights you'll be using. These could include the results from user interviews, listening studies, surveys, diary studies etc. 
+3. **Collect your research** – Gather the insights you'll be using. These could include the results from user interviews, listening studies, surveys, diary studies etc.
 
 ### During the session
 
-1. **Start mapping** - Everyone should read the research themselves and fill out sticky notes for each quadrant.  
+1. **Start mapping** - Everyone should read the research themselves and fill out sticky notes for each quadrant.
 2. **Cluster** – The team collaboratively looks at the stickies for each quadrant and groups them into similar themes. Give each cluster a representative title. The aim is to get a shared understanding with all team members.
 3. **Review** – Once all the stickies are grouped, discuss your findings. What themes are repeated in multiple quadrants? What themes only appear in one? Are there any outliers? What are the gaps?
 4. **Refine and share** – Plan to update the map as you get more research or answer outstanding questions. You could even create a polished version of the map for sharing wider within the organisation.
