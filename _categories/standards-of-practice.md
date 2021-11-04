@@ -5,5 +5,8 @@ description: Our standards of practice are a guideline that empower our teams to
   inclusion.
 image: "/images/5.jpg"
 cover: ''
+menu:
+  header:
+    weight: 1
 
 ---
