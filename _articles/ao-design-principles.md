@@ -15,7 +15,7 @@ categories:
 
 We believe there's a better way
 
-![](/images/compass_large.png)
+![](/images/compass_large_1.png)
 
 ### We believe there's a better way
 
