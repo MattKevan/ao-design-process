@@ -1,5 +1,5 @@
 ---
-date: 2021-11-02 11:01:20 +0000
+date: 2021-11-02T11:01:20.000+00:00
 author: Martyn
 title: Customer Journey Maps
 description: A collaborative session to bring together your customers thoughts, feelings
@@ -8,7 +8,7 @@ image: "/images/5.jpg"
 cover: "/images/journey-maps.jpg"
 order: 1
 categories:
-- _categories/processes.md
+- _categories/deliverables.md
 
 ---
 This article will give you a the who, what, why, where and when of customer journey maps.
