@@ -2,8 +2,8 @@
 date: 2021-11-04 10:33:01 +0000
 author: Martyn
 title: AO design principles
-description: 'So we can deliver for our customers brilliantly, the UX team have a
-  set of design principles which are baked into everything we create. '
+description: 'So we can deliver for our customers brilliantly, the UX team has a set
+  of design principles that are baked into everything we create. '
 image: "/images/5.jpg"
 cover: ''
 order: 
