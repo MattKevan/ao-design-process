@@ -2,8 +2,8 @@
 date: 2021-11-04 10:33:01 +0000
 author: Martyn
 title: AO design principles
-description: Our Design Principles are a set of considerations that form the basis
-  of any good product.
+description: 'So we can deliver for our customers brilliantly, the UX team have a
+  set of design principles which are baked into everything we create. '
 image: "/images/5.jpg"
 cover: ''
 order: 
@@ -11,7 +11,9 @@ categories:
 - _categories/standards-of-practice.md
 
 ---
-# Our Design Principles
+# 
+
+Our principles
 
 ![](/images/compass_large_2.jpg)
 
