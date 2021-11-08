@@ -4,7 +4,7 @@ author: Martyn
 title: UX Design principles
 description: 'So we can deliver for our customers brilliantly, the UX team has a set
   of design principles that are baked into everything we create. '
-image: "/images/5.jpg"
+image: "/images/6.jpg"
 cover: "/images/principles.jpg"
 order: 
 categories:
