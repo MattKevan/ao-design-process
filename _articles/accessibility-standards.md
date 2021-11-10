@@ -8,6 +8,5 @@ cover: "/images/principles.jpg"
 order: 
 categories:
 - _categories/standards-of-practice.md
-published: false
 
 ---
