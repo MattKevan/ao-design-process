@@ -1,6 +1,6 @@
 ---
 date: 2021-11-04 10:33:01 +0000
-author: Martyn
+author: ''
 title: UX Design principles
 description: 'So we can deliver for our customers brilliantly, the UX team has a set
   of design principles that are baked into everything we create. '
@@ -13,12 +13,14 @@ categories:
 ---
 These 6 principles are baked into every step of our process and ensure we consider the right things when we create a new experience for our customers.
 
+These principles aren't exclusively for the UX team, they're for every team in Tech and the wider AO universe to use to apply every piece of work they do. They're designed to be multi-functional and can be used in any situation, they're closely aligned with the AO brand values so that we have a clear and unified message in everything we do.
+
 ![](/images/compass_large_2.jpg)
 
 ### We believe there's a better way
 
 This is our over-arching principle and guides everything we do.  
-We think out the box and challenge the status quo to ensure we’re always doing the right thing for our customers.
+We think out of the box and challenge the status quo to ensure we’re always doing the right thing for our customers.
 
 ![](/images/lively_large_2.jpg)
 
@@ -49,5 +51,3 @@ We’re to-the-point and transparent with our customers to give them a real sens
 ### We make things simple
 
 By reducing clutter and jargon, we aim to create experiences that feel intuitive and increase customer confidence.
-
-> 
