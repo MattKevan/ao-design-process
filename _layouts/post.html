@@ -30,7 +30,7 @@ layout: default
 	</div>
 	
 	{% if page.cover and page.cover != '' %}
-		<div class="cover-image mt-5 mb-5" style="background-image: url(/images/{{ page.cover }});">
+		<div class="cover-image mt-5 mb-5" style="background-image: url({{ page.cover }});">
 			<div class="overlay"></div>
 		</div>
 	{% endif %}
