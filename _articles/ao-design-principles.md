@@ -11,8 +11,6 @@ categories:
 - _categories/standards-of-practice.md
 
 ---
-# 
-
 These 6 principles are baked into every step of our process and ensure we consider the right things when we create a new experience for our customers.
 
 ![](/images/compass_large_2.jpg)
