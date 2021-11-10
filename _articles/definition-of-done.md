@@ -11,7 +11,43 @@ categories:
 - _categories/standards-of-practice.md
 
 ---
-So that we can say that we have done our best by our customers and by the business when we complete a piece of work, we've devised a UX Definition of Done. What this simple checklist allows you to do, is
+There's a few steps to our UX Design Process, they all have significance and add up to creating a brilliant experience for our customers. Our definition of done is a checklist which helps us stay true to our process and make sure we've done our best by a piece every piece of work we do.
+
+### Research and data
+
+Assumptions validated with data
+
+Solution tested with real users
+
+Measures of success agreed
+
+Post-live analysis defined
+
+### Design
+
+Explored a variety of solutions
+
+Embodies our design principles
+
+Adheres to the design system
+
+Tested with real data
+
+Works across all supported screen sizes
+
+Edge cases have been worked through
+
+Meets AA accessibility requirements
+
+### Collaboration and Communication
+
+Feedback requested from other designers
+
+Viability checked with Tech
+
+Approach agreed with product
+
+Stakeholders are in the loop
 
 ![](/images/ux-definition-of-done.jpg)
 
