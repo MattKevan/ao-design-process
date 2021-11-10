@@ -25,6 +25,8 @@ Measures of success agreed
 
 Post-live analysis defined
 
+***
+
 ### Design
 
 Explored a variety of solutions
@@ -41,6 +43,8 @@ Edge cases have been worked through
 
 Meets AA accessibility requirements
 
+***
+
 ### Collaboration and Communication
 
 Feedback requested from other designers
@@ -50,6 +54,12 @@ Viability checked with Tech
 Approach agreed with product
 
 Stakeholders are in the loop
+
+***
+
+## Yours to keep
+
+Here's a fancy checklist for you to download and keep with you whenever you're doing your work. If you have any questions or you think we can improve our Definition of Done, then please get in touch with us at [ux@ao.com](ux@ao.com)
 
 ![](/images/ux-definition-of-done.jpg)
 
