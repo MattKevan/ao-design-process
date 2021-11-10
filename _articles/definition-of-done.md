@@ -13,6 +13,8 @@ categories:
 ---
 There's a few steps to our UX Design Process, they all have significance and add up to creating a brilliant experience for our customers. Our definition of done is a checklist which helps us stay true to our process and make sure we've done our best by a piece every piece of work we do.
 
+***
+
 ### Research and data
 
 Assumptions validated with data
