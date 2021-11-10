@@ -54,6 +54,7 @@ fields:
       path: authors
   label: Author
 pages:
+- _articles/accessibility-standards.md
 - _articles/ao-design-principles.md
 - _articles/creating-your-problem-statement.md
 - _articles/customer-journey-maps.md
