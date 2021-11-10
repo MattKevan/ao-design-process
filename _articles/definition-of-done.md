@@ -59,8 +59,6 @@ Stakeholders are in the loop
 
 ## Yours to keep
 
-Here's a fancy checklist for you to download and keep with you whenever you're doing your work. If you have any questions or you think we can improve our Definition of Done, then please get in touch with us at [ux@ao.com](ux@ao.com)
+Here's a fancy checklist for you to download and keep with you whenever you're doing your work. If you have any questions or you think we can improve our Definition of Done, then please get in touch with us at ux@ao.com
 
 ![](/images/ux-definition-of-done.jpg)
-
-Have a question or want to know how better to use these principles in your work? Chat to us and email us at [ux@ao.com](ux@ao.com) we'll be happy to help.
