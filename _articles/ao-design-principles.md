@@ -1,9 +1,9 @@
 ---
-date: 2021-11-04 10:33:01 +0000
+date: 2021-11-04T10:33:01.000+00:00
 author: ''
 title: UX Design principles
 description: 'So we can deliver for our customers brilliantly, the UX team has a set
-  of design principles that are baked into everything we create. '
+  of design principles that are baked into everything we create '
 image: "/images/6.jpg"
 cover: "/images/principles.jpg"
 order: 
