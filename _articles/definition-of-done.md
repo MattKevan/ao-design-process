@@ -17,43 +17,43 @@ There's a few steps to our UX Design Process, they all have significance and add
 
 ### Research and data
 
-Assumptions validated with data
+☐ Assumptions validated with data
 
-Solution tested with real users
+☐ Solution tested with real users
 
-Measures of success agreed
+☐ Measures of success agreed
 
-Post-live analysis defined
+☐ Post-live analysis defined
 
 ***
 
 ### Design
 
-Explored a variety of solutions
+☐ Explored a variety of solutions
 
-Embodies our design principles
+☐ Embodies our design principles
 
-Adheres to the design system
+☐ Adheres to the design system
 
-Tested with real data
+☐ Tested with real data
 
-Works across all supported screen sizes
+☐ Works across all supported screen sizes
 
-Edge cases have been worked through
+☐ Edge cases have been worked through
 
-Meets AA accessibility requirements
+☐ Meets AA accessibility requirements
 
 ***
 
 ### Collaboration and Communication
 
-Feedback requested from other designers
+☐ Feedback requested from other designers
 
-Viability checked with Tech
+☐ Viability checked with Tech
 
-Approach agreed with product
+☐ Approach agreed with Product
 
-Stakeholders are in the loop
+☐ Stakeholders are in the loop
 
 ***
 
