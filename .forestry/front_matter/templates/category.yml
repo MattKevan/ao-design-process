@@ -12,11 +12,18 @@ fields:
   type: file
   config:
     maxSize: 64
-  label: Thumbnail image
-- name: cover
-  type: file
+  label: Image
+- name: categories
+  type: select
+  default: []
   config:
-    maxSize: 64
-  label: Cover image
+    required: false
+    options: []
+    source:
+      type: pages
+      section: categories
+      file: 
+      path: 
+  label: Categories
 pages:
 - _categories/standards-of-practice.md
