@@ -1,10 +1,10 @@
 ---
-date: 2021-11-08 11:39:21 +0000
+date: 2021-11-08T11:39:21.000+00:00
 author: Stephen
 title: Definition of done
 description: This checklist allows us to stay true to our principles and process,
   it's our due diligence to help steer each piece of work we do to success.
-image: "/images/6.jpg"
+image: "/images/IMG_3573.jpeg"
 cover: "/images/principles.jpg"
 order: 
 categories:
