@@ -25,7 +25,7 @@ fields:
   label: Categories
 - name: style
   type: select
-  default: list
+  default: grid
   config:
     required: false
     options:
