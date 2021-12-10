@@ -24,6 +24,6 @@ fields:
       section: categories
       file: 
       path: 
-  label: Categories
+  label: Category
 pages:
 - _categories/standards-of-practice.md
