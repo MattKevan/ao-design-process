@@ -4,5 +4,7 @@ description: These are the main stages that you should go through when tackling 
   project.
 categories:
 - _categories/guidelines.md
-image: /images/ideas.jpg
+image: "/images/ideas.jpg"
+style: grid
+
 ---
