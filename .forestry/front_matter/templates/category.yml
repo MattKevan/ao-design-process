@@ -23,5 +23,19 @@ fields:
       type: pages
       section: categories
   label: Categories
+- name: style
+  type: select
+  default: list
+  config:
+    required: false
+    options:
+    - list
+    - grid
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Teaser style
 pages:
 - _categories/standards-of-practice.md
