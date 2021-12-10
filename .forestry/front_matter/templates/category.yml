@@ -14,16 +14,14 @@ fields:
     maxSize: 64
   label: Image
 - name: categories
-  type: select
-  default: []
+  type: list
   config:
-    required: false
-    options: []
+    use_select: true
+    min: 
+    max: 
     source:
       type: pages
       section: categories
-      file: 
-      path: 
-  label: Category
+  label: Categories
 pages:
 - _categories/standards-of-practice.md
