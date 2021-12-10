@@ -3,7 +3,8 @@ title: Handover and build
 order: 10
 description: Work with developers to finalise the design, resolve edge cases, polish, QA and ship a solution.
 categories:
-- '_categories/design-stages.md'	
+- _categories/design-process.md
+image: '/images/IMG_8134.jpeg'
 ---
 ## Goal
 

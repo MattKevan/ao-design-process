@@ -2,9 +2,10 @@
 title: Measure and learn
 order: 12
 categories:
-- '_categories/design-stages.md'	
+- '_categories/design-process.md'	
 description: The goal is to measure the impact of the project and to gather your learnings, share them with the team and feed them into future projects.
 author: Matt Kevan
+image: '/images/IMG_2533.jpg'
 ---
 
 ## Activities you should do

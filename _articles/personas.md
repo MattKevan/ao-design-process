@@ -6,7 +6,7 @@ description: 'Personas are extremely helpful when designing products and service
   helping stakeholders (and designers) keep  the users in mind and see the problem
   from their perspective. '
 categories:
-- _categories/deliverables.md
+- _categories/ways-of-working.md
 author: Matt
 image: ''
 cover: ''

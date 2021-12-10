@@ -1,12 +1,8 @@
 ---
 title: Standards of practice
-description: Our standards of practice are a guideline that empower our teams to do
-  their best by our customer whilst maintaining the highest standards of design and
-  inclusion.
-image: "/images/5.jpg"
-cover: ''
-menu:
-  header:
-    weight: 1
-
+description: Guidelines that empower our teams to do
+  their best.
+categories:
+- _categories/guidelines.md
+image: /images/workshop2.png
 ---

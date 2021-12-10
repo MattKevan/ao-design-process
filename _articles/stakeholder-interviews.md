@@ -1,7 +1,12 @@
 ---
-title: Interviews
-
+title: Stakeholder interviews
+description: 
+categories:
+- _categories/ways-of-working.md
+cover: pattern-large.jpg
+author: Matt
 ---
+
 # Stakeholder interviews
 
 Gathering requirements and understanding outcomes.

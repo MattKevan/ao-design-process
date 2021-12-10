@@ -7,6 +7,6 @@ image: "/images/6.jpg"
 cover: "/images/principles.jpg"
 order: 
 categories:
-- _categories/standards-of-practice.md
+- _categories/accessibility.md
 
 ---

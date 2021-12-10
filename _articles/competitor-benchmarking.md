@@ -2,7 +2,7 @@
 title: Competitor benchmarking
 author: Patrick
 categories:
-- _categories/ux-discovery.md
+- _categories/ways-of-working.md
 description: Understanding how other products are approaching the same problem.
 
 ---

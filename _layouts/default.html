@@ -2,11 +2,11 @@
 <html lang="en">
   	{% include head.html %}
 	  
-  	<body class="{% if page.theme %}{{ page.theme }}{% endif %}">
+  	<body class="{{ page.layout }}{% if page.theme %} {{ page.theme }}{% endif %}">
 	
 		{% include header.html %}
 		
-		<div class="wrapper">
+		<div class="wrapper {% unless page.image and page.image != '' %}mt-5{% endunless %}">
 			<div class="main">
 				{{ content }}
 			</div>

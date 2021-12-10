@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+
+<div class="container">
+  <div class="row">
+    <div class="col">
+      <h1>{{ page.title }}</h1>
+      {% if page.description %}
+        <p class="lead">{{ page.description }}</p>
+      {% endif %}
+      
+      {% if page.tags %}
+        <p class="tags xs">
+          {% for tag in page.tags %}
+            <span>{{ tag }}</span>
+          {% endfor %}
+        </p>  
+      {% endif %}
+      
+      {{ content }}
+      <div class="row">
+        {% assign sorted = site.categories | sort: 'order' %}
+            {% for item in sorted %}
+       
+        {% if item.section == page.title %}
+          {% include teaser-grid.html %}
+          {% endif %}
+          {% endfor %}
+  
+        </div>
+    </div>
+  </div>
+</div>

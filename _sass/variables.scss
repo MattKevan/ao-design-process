@@ -15,9 +15,38 @@ $headings-font-family:      'Smiley Face', Helvetica, Arial, sans-serif;
 $headings-font-weight:		normal !default;
 $font-weight-base:          normal;
 $line-height-base:          1.8 !default;
-$font-family-base:          $font-family-serif !default;
+$font-family-base:          $font-family-sans-serif !default;
 $blue:    					#2962FF !default;
+
+$ice:       #4A6DCE;      
+$on-green:  #12C35A;
+$heat:      #F96155;
+$water:     #011F44;
+$toast:     #FFA878;
+
+$blue:      $ice;
+$darkblue:  $water;
+$red:       $heat;
+$orange:    $toast;
+$green:     $on-green;
+
+$primary:   $darkblue !default;
+
+
+.green {
+    color: $on-green;
+}
+
+.red {
+    color: $heat;
+}
+
+.light-blue  {
+    color: $ice;
+}
 
 
 .btn-primary.active		{
 }
+
+$carousel-transition-duration:       0s !default;

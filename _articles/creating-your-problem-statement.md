@@ -5,11 +5,11 @@ title: Creating your problem statement
 description: 'The primary requests from Tech & Product are to be included in the UX
   process earlier. Colleagues want to be part of the process but don’t feel they have
   an opportunity to contribute effectively or share in the discovery of the work. '
-image: ''
+image: '/images/IMG_2609.jpg'
 cover: ''
 order: 
 categories:
-- _categories/processes.md
+- _categories/ux-fundamentals.md
 
 ---
 This highlights a lack of collaboration and sharing of knowledge.

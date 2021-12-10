@@ -3,9 +3,9 @@ title: Declaring assumptions
 description: Declaring assumptions is a group exercise. Get the team together, making
   sure all disciplines are represented – and bring in anyone else who may have vital
   information about the project.
-image: "/images/4.jpg"
+image:
 categories:
-- _categories/processes.md
+- _categories/lean-ux.md
 author: Matt
 
 ---

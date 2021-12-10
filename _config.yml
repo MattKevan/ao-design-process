@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: AO UX
+title: AO Design
 email: m@kevan.tv
 description: >
   AO UX team
@@ -26,6 +26,20 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+mini_magick:
+  thumbnail: # Preset name
+    source: images # source directory - change this to whatever you want
+    destination: images/thumbnails # generated destination directory
+    resize: "600x400^" # standard imagemagick options - you can chain multiple commands
+    gravity: "center"
+    extent: "600x400"
+  cover: # Preset name
+    source: images # source directory - change this to whatever you want
+    destination: images/covers # generated destination directory
+    resize: "1200x600^" # standard imagemagick options - you can chain multiple commands
+    gravity: "center"
+    extent: "1200x600"
 
 collections:
   articles:

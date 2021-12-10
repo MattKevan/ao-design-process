@@ -4,8 +4,9 @@ order: 8
 parent: Design stages
 description: Figure out the necessary flow and interaction design details to enable engineers to start building the scoped solution.
 author: Matt Kevan
-category:
-- '_categories/design-stages.md'	
+categories:
+- _categories/design-process.md
+image: '/images/IMG_3602.jpeg'
 ---
 
 

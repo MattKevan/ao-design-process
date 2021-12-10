@@ -1,0 +1,100 @@
+---
+title: AO UX design process
+description: This is a toolkit to help you define the most appropriate design process for your yourself, your team and the particular projects you're working on. 
+layout: default
+permalink: /
+---
+<div class="container">
+
+	<div class="section hero">
+		<div class="row">
+			<div class="col-12">
+			
+
+					<div id="title-carousel" class="carousel slide carousel-fade" data-touch="false" data-ride="carousel">
+						  <div class="carousel-inner">
+						    <div class="carousel-item active" data-interval="5000">
+						    	<h1>Spark <br>
+						      	<span class="red">Exitement</span></h1>
+						    </div>
+						    <div class="carousel-item" data-interval="5000">
+						    	<h1>Spark <br>
+						       <span class="green">Inspiration</span></h1>
+						    </div>
+						    <div class="carousel-item" data-interval="5000">
+						    	<h1>Spark <br>
+						       <span class="light-blue">Creativity</span></h1>
+						    </div>
+						  </div>
+	
+						</div>
+					
+			</div>
+
+			<div class="col-12 col-lg-8">
+				<p class="lead"> Nice to meet you, we’re AO’s product design team. We make our customers' lives easier by creating brilliant experiences, working across all of AO's sites and services. Read on to learn more about who we are and how we work.</p>
+			</div>
+		</div>
+
+
+	</div>
+
+
+
+
+
+
+<div class="section">
+	<h2 class="title">What we believe</h2>
+
+	<div class="row">
+
+		{% assign sorted = site.documents | sort: 'title' %}
+            {% for item in sorted %}
+        {% for cat in item.categories %}
+        {% if cat == '_categories/what-we-believe.md' %}
+          {% include teaser.html %}
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+
+
+
+	</div>
+	</div>
+
+<div class="section">
+	<h2 class="title">Guidelines</h2>
+
+	<div class="row">
+				{% assign sorted = site.documents | sort: 'title' %}
+            {% for item in sorted %}
+        {% for cat in item.categories %}
+        {% if cat == '_categories/guidelines.md' %}
+          {% include teaser.html %}
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+
+	</div>
+	
+</div>
+<div class="section">
+
+
+			<h2 class="title">Resources</h2>
+			<div class="row">
+				{% assign sorted = site.documents | sort: 'title' %}
+            {% for item in sorted %}
+        {% for cat in item.categories %}
+        {% if cat == '_categories/resources.md' %}
+          {% include teaser.html %}
+          {% endif %}
+          {% endfor %}
+          {% endfor %}
+
+	</div>
+</div>
+
+</div>
+

@@ -3,11 +3,9 @@ title: Scope solutions
 order: 6
 description: Work with your team to create the smallest version of your idea that
   still makes sense and can be shipped and tested to learn whether it solves the problem.
-has_children: false
-parent: Design stages
 categories:
-- _categories/design-stages.md
-cover: pattern-large.jpg
+- _categories/design-process.md
+image: '/images/ideas.jpg'
 author: Matt
 
 ---

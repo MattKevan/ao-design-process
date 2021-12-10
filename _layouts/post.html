@@ -3,46 +3,55 @@ layout: default
 ---
 
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+	{% if page.image and page.image != '' %}
+		<div class="cover-image mb-5" style="background-image: url({{ page.image | replace: 'images', 'images/covers' }});">
+			<div class="overlay"></div>
+		</div>
+	{% endif %}
+
 	<div class="container">
 		
 		<div class="row">
 			<div class="col col-lg-8 offset-lg-2">
-						
+				{% for cat in site.categories %}
+			        {% for obj in page.categories %}
+			          {% if obj == cat.path %}
+			            <p class="crumb"><a href="{{ cat.url }}">« {{ cat.title }}</a></p>
+			          {% endif %}
+			        {% endfor %}
+			      {% endfor %}		
 				<h1 itemprop="name headline">{{ page.title }}</h1>
-				<p class="lead">{{ page.description }}</p>				
+				<p class="lead">{{ page.description }}</p>
+				<p class="postmeta s">
+					<strong>{{ page.author }}</strong>, {{ page.date | date: "%-d %B %Y" }}
+				</p>				
 				<p class="tags xs mb-4">
 					 {% for tag in page.categories %}
 					 {% for cat in site.categories %}
 					 	{% if tag == cat.path %}
-						 <span>{{ cat.title }}</span>
+						 <span><a href="/{{ cat.title | slugify }}">{{ cat.title }}</a></span>
 					 	{% endif %}
 					 
 					{% endfor %}
 					{% endfor %}
 				</p>
-				<p class="postmeta s">
-					<strong>{{ page.author }}</strong><br>
-					{{ page.date | date: "%-d %B %Y" }}
-				</p>
+
+					
+
 			</div>
 		</div>
 		
 	</div>
 	
-	{% if page.cover and page.cover != '' %}
-		<div class="cover-image mt-5 mb-5" style="background-image: url({{ page.cover }});">
-			<div class="overlay"></div>
-		</div>
-	{% endif %}
+
 	
 	<div class="container">
-	
+
 		<div class="row">
-			<div class="col col-lg-8 offset-lg-2">			
+			<div class="col col-lg-8 offset-lg-2">
 				<div itemprop="articleBody" class="content">
-					{% unless page.cover and page.cover != '' %}
-						<hr>
-					{% endunless %}
+					<hr>
 					{{ content }}
 				</div>
 			</div>

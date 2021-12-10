@@ -2,9 +2,10 @@
 title: Explore ideas
 order: 4
 categories:
-- '_categories/design-stages.md'	
+- '_categories/design-process.md'	
 author: Matt Kevan
 description: It's essential to have a well thought-out problem statement before starting work. Never accept being handed a solution to implement – keep digging until you find the underlying problem.
+image: "/images/workshop.jpeg"
 ---
 You don't need to have worked everything out, but you do need to be confident that the solution you've chosen is the right way to go and you're not missing any opportunities.
 

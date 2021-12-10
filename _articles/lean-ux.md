@@ -1,8 +1,8 @@
 ---
-title: Lean UX
+title: Introducing Lean UX
 order: 12
 categories:
-- '_categories/design-stages.md'    
+- '_categories/lean-ux.md'    
 description: The goal is to measure the impact of the project and to gather your learnings, share them with the team and feed them into future projects.
 author: Matt Kevan
 ---

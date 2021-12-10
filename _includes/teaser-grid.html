@@ -1,34 +1,28 @@
 <div class="col-12 col-sm-6 col-lg-4 mb-4">
-	<div class="teaser teaser-grid">
+	<div class="card teaser grid h-100 border-0 shadow">
 		<a href="{{ item.url | prepend: site.baseurl }}">
 			{% assign min = 1 %}
 {% assign max = 6 %}
 {% assign diff = max | minus: min %}
 {% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
 
+
+
 			{% if item.image and item.image != '' %}
 
-				<img src="{{ item.image }}" class="fullwidth">
+				<img src="{{ item.image | replace: 'images', 'images/thumbnails' }}" class="card-img fullwidth">
+
 			{% else %}
-				<img src="/images/5.jpg" class="fullwidth">
+				<img src="/images/thumbnails/{{ randomNumber}}.jpg" class="card-img fullwidth">
 		
 			{% endif %}
 		</a>
+					<div class="card-body">
 		
-		<h4><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
-		<p>{{ item.description }}</p>
+		<h4 class="card-title"><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+		<p class="card-text">{{ item.description }}</p>
 		
-<p class="tags xs mb-4">
-					 {% for tag in item.categories %}
-					 {% for cat in site.categories %}
-					 	{% if tag == cat.path %}
-						 <span>{{ cat.title }}</span>
-					 	{% endif %}
-					 
-					{% endfor %}
-					{% endfor %}
-				</p>
-		
+		</div>
 	</div>
 </div>
 

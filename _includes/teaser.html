@@ -1,0 +1,36 @@
+<div class="col-12 col-md-6 col-lg-4 col-xl-6 mb-4 ">
+
+	<div class="card teaser list h-100 border-0 shadow">
+		
+		<div class="row">
+
+			<div class="col-12 col-xl-6">
+		<a href="{{ item.url | prepend: site.baseurl }}">
+			{% assign min = 1 %}
+{% assign max = 6 %}
+{% assign diff = max | minus: min %}
+{% assign randomNumber = "now" | date: "%N" | modulo: diff | plus: min %}
+
+			{% if item.image and item.image != '' %}
+
+				<img src="{{ item.image | replace: 'images', 'images/thumbnails' }}" class="card-img-top fullwidth">
+			{% else %}
+				<img src="/images/thumbnails/5.jpg" class="card-img-top fullwidth">
+		
+			{% endif %}
+		</a>
+		</div>
+
+		<div class="col-12 col-xl-6">
+			<div class="card-body">
+
+			
+		<h4 class="card-title"><a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a></h4>
+		<p class="card-text">{{ item.description }}</p>
+
+			</div>
+		</div>
+	</div>
+</div>
+</div>
+

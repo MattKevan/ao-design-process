@@ -1,10 +1,10 @@
 ---
 title: Empathy maps
 categories:
-- _categories/deliverables.md
+- _categories/ways-of-working.md
 description: Aid decision making and create a shared understanding of a user by visualising
   user insights in a clear, understandable artefact.
-
+image: '/images/IMG_2328_2.jpeg'
 ---
 An essential part of the design thinking process, empathy maps are a collaborative way to explore and visualise what we know about a particular type of user. They're useful because they can help:
 

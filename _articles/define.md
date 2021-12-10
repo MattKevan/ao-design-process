@@ -1,10 +1,12 @@
 ---
-title: Define
+title: Define the problem
 order: 2
 categories:
-- '_categories/design-stages.md'	
+- '_categories/design-process.md'	
 description: The purpose of this phase is to get a thorough understanding of the problem we're trying to solve by ensuring we've asked enough questions and challenged any assumptions.
 author: Matt Kevan
+image: /images/daria-nepriakhina-zocdwpuirua-unsplash-1.jpg
+
 ---
 
 

@@ -2,10 +2,29 @@
 layout: default
 ---
 
+  {% if page.image and page.image != '' %}
+    <div class="cover-image mb-5" style="background-image: url({{ page.image | replace: 'images', 'images/covers' }});">
+      <div class="overlay"></div>
+    </div>
+  {% endif %}
 
 <div class="container">
   <div class="row">
     <div class="col">
+
+
+        {% for cat in site.categories %}
+
+        {% for obj in page.categories %}
+
+          {% if obj == cat.path %}
+                  <p class="crumb"><a href="{{ cat.url }}">« {{ cat.title }}</a></p>
+         {% endif %}
+                {% endfor %}
+                         {% endfor %}
+
+     
+
       <h1>{{ page.title }}</h1>
       {% if page.description %}
         <p class="lead">{{ page.description }}</p>
@@ -21,11 +40,17 @@ layout: default
       
       {{ content }}
       <div class="row">
-        {% assign sorted = site.articles | sort: 'order' %}
+
+
+        {% assign sorted = site.documents | sort: 'order' %}
             {% for item in sorted %}
         {% for cat in item.categories %}
         {% if cat == page.path %}
-          {% include teaser-grid.html %}
+        {% if page.style == 'list'%}
+          {% include teaser.html %}
+          {% else %}
+           {% include teaser-grid.html %}
+          {% endif %}
           {% endif %}
           {% endfor %}
           {% endfor %}
