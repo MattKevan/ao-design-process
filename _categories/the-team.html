@@ -1,0 +1,27 @@
+---
+title: The team
+description: 
+menu:
+  header:
+    weight: 4
+image: '/images/IMG_2354.JPG'
+---
+
+<div class="row">
+{% for item in site.profiles %}
+
+<div class="col-12 col-sm-6 col-lg-4 col-xl-3 mb-4">
+  <div class="profile">
+    {% if item.image == '' %}
+        <img src="/images/profiles/1.jpg" class="profile fullwidth mb-4 rounded-circle">
+    {% else %}
+    <img src="{{ item.image | replace: 'images', 'images/profiles' }}" class="profile fullwidth mb-4 rounded-circle">
+    {% endif %}
+    <h4>{{ item.title}}</h4>
+    <p><strong>{{ item.role}}</strong></p>
+    <p>{{ item.description }}</p>
+</div>
+    </div>
+
+{% endfor %}
+</div>

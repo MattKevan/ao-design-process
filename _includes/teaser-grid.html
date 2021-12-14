@@ -10,10 +10,10 @@
 
 			{% if item.image and item.image != '' %}
 
-				<img src="{{ item.image | replace: 'images', 'images/thumbnails' }}" class="card-img fullwidth">
+				<img src="{{ item.image | replace: 'images', 'images/thumbnails' }}" class="card-img-top fullwidth">
 
 			{% else %}
-				<img src="/images/thumbnails/{{ randomNumber}}.jpg" class="card-img fullwidth">
+				<img src="/images/thumbnails/{{ randomNumber}}.jpg" class="card-img-top fullwidth">
 		
 			{% endif %}
 		</a>

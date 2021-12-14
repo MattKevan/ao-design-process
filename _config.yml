@@ -40,6 +40,13 @@ mini_magick:
     resize: "1200x600^" # standard imagemagick options - you can chain multiple commands
     gravity: "center"
     extent: "1200x600"
+  profiles: # Preset name
+    source: images # source directory - change this to whatever you want
+    destination: images/profiles # generated destination directory
+    resize: "600x600^" # standard imagemagick options - you can chain multiple commands
+    gravity: "center"
+    extent: "600x600"
+    colorspace: "gray"
 
 collections:
   articles:
@@ -48,6 +55,9 @@ collections:
   categories:
     output: true
     permalink: /:path/
+  profiles:
+    output: true
+    permalink: /the-team/:path/
 
 defaults:
   -
@@ -64,5 +74,13 @@ defaults:
       type: "categories"
     values: 
       layout: "category"
+      description: ""
+      tags: []
+  -
+    scope:
+      path: ""
+      type: "profiles"
+    values: 
+      layout: "post"
       description: ""
       tags: []
